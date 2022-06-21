@@ -1,0 +1,15 @@
+#check remote location:
+git remote -v
+
+#setup new repository
+git remote set-url 
+
+#git push
+git push
+
+#git add all
+git add .
+
+#git clone
+git clone
+
